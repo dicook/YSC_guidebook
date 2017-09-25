@@ -1,0 +1,5 @@
+# Aswi
+
+My name is Aswi, a PhD student at QUT. My project is about Bayesian spatio-temporal modelling on dengue fever.
+
+
