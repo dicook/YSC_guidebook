@@ -1,4 +1,7 @@
-# Hello from Nick
+# Nick reckons...
+
+that in the future reproducible research and standardised data manipulation will accelerate statistical research. Having research that is more accessible will make it easier to identify and replicate research so it can be more easily understood and shared, and minimise the chance of errors.
+
 
 Nick Husek graduated in 2015 from a Bachelor of Science (Hons) from Monash University. Since 2015 he has worked at the Australian Bureau of Statistics performing data requests, supporting business surveys and conducting research in statistics.
 
