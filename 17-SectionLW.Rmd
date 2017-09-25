@@ -1,0 +1,9 @@
+# I reckon more people should use R  LW
+
+I reckon people shouldn't be scared of R. While it may look scary to someone without experience, it is worth investing the time to learn because of the large amount of stuff you can do with it. Once you get used to it, it can be fairly straight forward.
+
+I work in biostatistics, and while I often use many other packages, R is where I am most at home.  
+
+I think R markdwon will be vry useful moving forward for me. With the reporting of some upcoming projects requiring essentially the same steps to be repeated, markdown will make my job easier. 
+
+I previously didn't know that Markdown could be used to make slides. As I've been asked to do talks on R to colleagues at work, which I will probably be starting from the basics for, being able to easily put the code snippets in will make that much easier. 
