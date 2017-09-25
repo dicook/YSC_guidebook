@@ -1,0 +1,3 @@
+# I reckon visualisations with ggplot are pretty
+
+My name is Kelsey Grantham, and I'm a PhD student in Biostatistics at Monash University. I'm working on novel ways to design and analyse clinical trials. I'm originally from California and have a pet cat named Licorice!
