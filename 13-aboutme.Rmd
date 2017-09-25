@@ -1,0 +1,7 @@
+# About me
+
+- Name: Peter Kasprzak
+- Degree: Currently studying a MSc Statistics
+- Previous Career: Winemaker
+
+I am currently studying at the Waite University with the Biometric hub, specialising in Ranked Set Sampling application development for agriculture.
