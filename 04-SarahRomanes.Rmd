@@ -1,4 +1,4 @@
-# Sarah Romanes
+# Sarah reckons...
 
 ## About me 
 
@@ -33,11 +33,10 @@ knitr::include_graphics("C:/Users/Sarah/Dropbox/Uni/PhD/Projects/Other/YSC_guide
 
 ## Section 2: Thoughts
 
-### Highlights
 
 It's been very useful to have the step by step examples for section 2. When I have previously tried to learn tidy, I was learning commands on the fly and struggled with the functions of each command. Was especially useful to see how mutate actually works! 
 
-### Struggles
+### Most useful skill - the gather function.
 
 I still think I will need to become more familiar with the gather function. But the religion example was a nice easy one to get started with.
 
