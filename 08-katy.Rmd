@@ -1,6 +1,12 @@
-# Katy Proctor
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+# I reckon...
 
 Hello! My name is Katy Proctor, I'm originally from Scotland but moved to Perth 5 years ago. I graduated last year and now work as a Graduate Statistician at Data Analysis Australia. 
 
+I reckon that the spread, gather and separate functions will make reformatting client's data a lot easier and will make the process of producing plots more efficient.
 
 
