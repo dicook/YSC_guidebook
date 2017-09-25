@@ -8,7 +8,7 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: rstudio/bookdown-demo
+github-repo: dicook/YSC_guidebook
 description: "This book has some advice from many young statisticians on building your skills for reproducible research, data analysis in R and collaborative projects."
 ---
 
