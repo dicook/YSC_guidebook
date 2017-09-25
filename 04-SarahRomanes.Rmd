@@ -2,6 +2,62 @@
 
 ## About me 
 
+```{r, echo = FALSE, message = FALSE, warning = FALSE, warning = FALSE}
+knitr::opts_chunk$set(
+  message = FALSE,
+  warning = FALSE,
+  error = FALSE, 
+  echo = FALSE, 
+  collapse = TRUE,
+  comment = "",
+  fig.height = 5,
+  fig.width = 8,
+  fig.align = "center",
+  cache = FALSE
+)
+```
+
+```{r}
+library(tidyverse)
+library(gridExtra)
+library(plotly)
+library(ggthemes)
+library(ggmap)
+```
+
 Hi! I'm Sarah, a PhD student in Statistics at the University of Sydney. I am under the supervision of Dr John Ormerod and Prof. Jean Yang, working in the areas of approximate inference and bioinformatics. In my spare time, I like to go rock climbing, travel, and let everyone know how much I dislike coriander. I also love memes and bombard my students with them whilst lecturing.
 
-![Memes are amazing](C:/Users/Sarah/Dropbox/Uni/PhD/Projects/Other/YSC_guidebook/Meme.jpg)
+```{r, out.width = "400px"}
+knitr::include_graphics("C:/Users/Sarah/Dropbox/Uni/PhD/Projects/Other/YSC_guidebook/Meme.jpg")
+```
+
+## Section 2: Thoughts
+
+### Highlights
+
+It's been very useful to have the step by step examples for section 2. When I have previously tried to learn tidy, I was learning commands on the fly and struggled with the functions of each command. Was especially useful to see how mutate actually works! 
+
+### Struggles
+
+I still think I will need to become more familiar with the gather function. But the religion example was a nice easy one to get started with.
+
+I can try with the classic Iris dataset to test my understanding a bit more.
+
+I can turn this:
+```{r}
+head(iris)
+```
+
+Into a long version like this:
+```{r}
+iris_tidy <- iris %>% gather(measurements, vals, -Species)
+head(iris_tidy)
+```
+
+And boxplot it much easier:
+```{r}
+iris_tidy %>% ggplot(aes(x=measurements, y=vals,fill=measurements))+geom_boxplot()
+```
+
+
+
