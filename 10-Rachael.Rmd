@@ -1,3 +1,7 @@
-# Rachael thinks
+# Rachael reckons...
 
-Rachael Russo is currently employed at the Australian Bureau of Statistics. She has been providing methodological support for business surveys
+...that sharing knowledge through open source software is the way to go!
+
+Rachael Russo is currently employed at the Australian Bureau of Statistics. She has been providing methodological support for business surveys, covering tasks such as sample design and imputation.
+
+She wishes that she knew about the "gather" function 3 years ago whens he did her honours thesis, which involved a messy dataset. As R is slowly growing to be applicable to official statistics, knowing various ways to easily transform data will be useful.
