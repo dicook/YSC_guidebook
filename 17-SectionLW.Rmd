@@ -1,0 +1,5 @@
+# I reckon more people should use R  LW
+
+I reckon people shouldn't be scared of R. While it may look scary to someone without experience, it is worth investing the time to learn because of the large amount of stuff you can do with it. Once you get used to it, it can be fairly straight forward.
+
+I work in biostatistics, and while I often use many other packages, R is where I am most at home.  
