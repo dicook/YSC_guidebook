@@ -1,0 +1,3 @@
+# Sam Rogers
+
+My name is Sam Rogers. I am a University of Adelaide statistics graduate, currently working on Statistics for the Australian Grains industry. I have a background in data management and softwarae development. Find me at [github](https://github.com/therog1).
